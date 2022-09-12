@@ -31,10 +31,10 @@ git checkout test
 git branch
 ```
 
-### Staging in a git
+### Stashing in a git
 ```
 # To stage the changes of a current branch
-git stage
+git stash
 # To restore the files corresponding to previously staged commit
-git stage pop
+git stash pop
 ```
