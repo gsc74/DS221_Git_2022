@@ -3,6 +3,7 @@
 
 int main()
 {
+    // This is a code for Prefix Sums
     std::vector<int> A;
     for (int i = 0; i < 10; i++)
     {
