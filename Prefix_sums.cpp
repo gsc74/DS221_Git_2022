@@ -4,7 +4,7 @@
 int main()
 {
     std::vector<int> A;
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < 2; i++)
     {
         A.push_back(rand()%101);
     }
